@@ -1,4 +1,5 @@
 CONVERSIONS
 -Rands to Cents
+	multiply rands by 100
 -KM to M
 -Liter to ml
